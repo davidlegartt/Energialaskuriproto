@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'Energialaskuriproto20210409161912'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_a218f1527fee4b24a9abacb44aa74ce4 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_029bb59d4cad42fa89fb06771ad3dabe }}
         package: .
