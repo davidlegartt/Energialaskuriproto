@@ -87,13 +87,13 @@ namespace Energialaskuriproto
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl tuuliv;
 
         /// <summary>
-        /// paivamaara control.
+        /// pvm control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlGenericControl paivamaara;
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl pvm;
 
         /// <summary>
         /// output1 control.
@@ -123,6 +123,24 @@ namespace Energialaskuriproto
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl output3;
 
         /// <summary>
+        /// output4 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl output4;
+
+        /// <summary>
+        /// output5 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl output5;
+
+        /// <summary>
         /// Div1 control.
         /// </summary>
         /// <remarks>
@@ -130,5 +148,23 @@ namespace Energialaskuriproto
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl Div1;
+
+        /// <summary>
+        /// kokoTuotanto control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl kokoTuotanto;
+
+        /// <summary>
+        /// osuusTuotanto control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl osuusTuotanto;
     }
 }

@@ -90,15 +90,20 @@
                 
                 <div class="box" id="tuuliv" runat="server">
                     <h3>Tulos: </h3>
-                    <h3 id="paivamaara" runat="server"> </h3>
+                    <h3 id="pvm" runat="server"> </h3>
                     <p runat="server" id="output1"></p>
                     <p runat="server" id="output2"></p>
                     <p runat="server" id="output3"></p>
+                    <p runat="server" id="output4"></p>
+                    <p runat="server" id="output5"></p>
                 </div>
 
                 <div class="box" id="Div1" runat="server">
-                    <p>Osuus kokonaistuotannosta: </p>
-                    <br><br>
+                    <!--<p>Osuus kokonaistuotannosta: </p>-->
+                    <p id="kokoTuotanto" runat="server"> </p>
+                    <br />
+                    <p id="osuusTuotanto" runat="server"> </p>
+                    
                 </div>
 
             </div>
