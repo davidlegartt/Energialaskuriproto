@@ -39,7 +39,7 @@ namespace Energialaskuriproto
             
 
 
-            //EN TAJUUUUUUUUUUUUUUUU
+            
             try
             { 
             dt = DateTime.Parse(Request.Form[pvmr.UniqueID]);
